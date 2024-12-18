@@ -100,11 +100,3 @@ The script processes the webpage: `https://www.baraasallout.com/test.html`. It e
 4. **Improved File Handling**:
    - Replace hardcoded paths with relative paths or user inputs for greater portability.
 
----
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/web-scraping-project.git
-   cd web-scraping-project
